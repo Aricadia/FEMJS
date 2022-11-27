@@ -6,8 +6,8 @@ console.log(yearlyRent);
 
 // learning about Strings
 
-const firstName = "Aaron";
-const lastName = "Swan";
+const firstName = "Ari";
+const lastName = "Cadia";
 
 // Old method of using spaces
 // const sentence = "Hello " + firstName + " " + lastName + "! How are you?";
